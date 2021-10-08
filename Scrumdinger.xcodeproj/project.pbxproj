@@ -17,6 +17,8 @@
 		FB2E0EEA270CF6B100096BBB /* DailyScrum.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB2E0EE8270CF6B100096BBB /* DailyScrum.swift */; };
 		FB2E0EEC270E382600096BBB /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB2E0EEB270E382600096BBB /* CardView.swift */; };
 		FB2E0EED270E382600096BBB /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB2E0EEB270E382600096BBB /* CardView.swift */; };
+		FB2E0EEF27109F0E00096BBB /* ScrumsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB2E0EEE27109F0E00096BBB /* ScrumsView.swift */; };
+		FB2E0EF027109F0E00096BBB /* ScrumsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB2E0EEE27109F0E00096BBB /* ScrumsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +30,7 @@
 		FB2E0ED9270C0FFA00096BBB /* macOS.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = macOS.entitlements; sourceTree = "<group>"; };
 		FB2E0EE8270CF6B100096BBB /* DailyScrum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DailyScrum.swift; sourceTree = "<group>"; };
 		FB2E0EEB270E382600096BBB /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
+		FB2E0EEE27109F0E00096BBB /* ScrumsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +67,7 @@
 				FB2E0ECB270C0FF900096BBB /* MeetingView.swift */,
 				FB2E0EE8270CF6B100096BBB /* DailyScrum.swift */,
 				FB2E0EEB270E382600096BBB /* CardView.swift */,
+				FB2E0EEE27109F0E00096BBB /* ScrumsView.swift */,
 				FB2E0ECC270C0FFA00096BBB /* Assets.xcassets */,
 			);
 			path = Shared;
@@ -187,6 +191,7 @@
 				FB2E0EDC270C0FFA00096BBB /* MeetingView.swift in Sources */,
 				FB2E0EE9270CF6B100096BBB /* DailyScrum.swift in Sources */,
 				FB2E0EEC270E382600096BBB /* CardView.swift in Sources */,
+				FB2E0EEF27109F0E00096BBB /* ScrumsView.swift in Sources */,
 				FB2E0EDA270C0FFA00096BBB /* ScrumdingerApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -198,6 +203,7 @@
 				FB2E0EDD270C0FFA00096BBB /* MeetingView.swift in Sources */,
 				FB2E0EEA270CF6B100096BBB /* DailyScrum.swift in Sources */,
 				FB2E0EED270E382600096BBB /* CardView.swift in Sources */,
+				FB2E0EF027109F0E00096BBB /* ScrumsView.swift in Sources */,
 				FB2E0EDB270C0FFA00096BBB /* ScrumdingerApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
